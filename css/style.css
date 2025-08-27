@@ -1,0 +1,173 @@
+body{
+    font-family: "Roboto", sans-serif;
+    
+}
+
+a {
+text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.logo-nav {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 1.16667;;
+    letter-spacing: 3%;
+    color: #2E2F42;
+   
+}
+
+.logo-web{
+    color: #4D5AE5;
+}
+
+.nav-links a {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #2E2F42
+        
+}
+
+.contacts a {
+ font-family: "Roboto", sans-serif;
+ font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #434455 ;
+}
+
+.nav-links a:hover, 
+.nav-links a:focus
+{
+    color: #404BBF;
+}
+
+.nav-links li a:first-child, 
+.nav-links li a:active{
+    color: #404BBF;
+}
+
+.contacts a:hover,
+.contacts a:focus{
+    color: #404BBF;
+}
+
+.hero {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 2%;
+}
+
+.hero-button {
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+       
+        
+
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404BBF;
+}
+
+.advantages h3 {
+        font-weight: 500;
+        font-size: 20px;
+         line-height: 1.2;
+        letter-spacing: 2%;
+        color: #2E2F42;
+
+}
+
+.advantages p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #434455;
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+
+.team h2 {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 2%;
+        color: #2E2F42;
+        
+}
+
+.team h3 {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 2%;
+        color: #2E2F42;
+}
+
+.team p {
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 2%;
+            color: #434455;
+}
+
+.portfolio h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.portfolio h3{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 2%;
+        color: #2E2F42;
+}
+
+.portfolio p {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #434455;
+}
+
+footer {
+   background-color:  #2E2F42;   
+}
+
+.logo-studio {
+    color: #F4F4FD;
+}
+
+footer p {
+
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #F4F4FD;
+}
