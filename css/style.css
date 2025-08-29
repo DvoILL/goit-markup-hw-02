@@ -52,18 +52,16 @@ address {
 
 .nav-links:hover, 
 .nav-links:focus,
-.nav-links:active
 {
-    color: #404bbf4;
+    color: #404bbf;
 }
 
 
 
 .contacts:hover,
 .contacts:focus, 
-.contacts:active
 {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 .hero {
