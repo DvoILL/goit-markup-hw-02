@@ -51,7 +51,7 @@ address {
 }
 
 .nav-links:hover, 
-.nav-links:focus,
+.nav-links:focus
 {
     color: #404bbf;
 }
@@ -59,7 +59,7 @@ address {
 
 
 .contacts:hover,
-.contacts:focus, 
+.contacts:focus 
 {
     color: #404bbf;
 }
