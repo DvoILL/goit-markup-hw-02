@@ -58,8 +58,8 @@ address {
 
 
 
-.contacts:hover,
-.contacts:focus 
+.contacts-list:hover,
+.contacts-list:focus 
 {
     color: #404bbf;
 }
