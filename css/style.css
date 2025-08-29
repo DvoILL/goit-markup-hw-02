@@ -118,24 +118,29 @@ address {
     background-color: #F4F4FD;
 }
 
-.team h2 {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11111;
-        letter-spacing: 2%;
-        color: #2E2F42;
-        
+.team-list{
+    background-color: #FFFFFF;
 }
 
-.team h3 {
+.team-title{
+        font-weight: 700;
+        font-size: 36px;
+        text-align: center;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42; 
+}
+
+.team-list-title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
-        letter-spacing: 2%;
+        letter-spacing: 0.02em;
         color: #2E2F42;
 }
 
-.team p {
+.team-list-text{
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 2%;
